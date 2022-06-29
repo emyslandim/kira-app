@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:nathborges/kira-app-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/emyslandim/kira-app-frontend.git
