@@ -21,7 +21,7 @@ This is a chatbot application developed with the `mobile first` concept. The ide
 A user can talk with Kira, and tell how she is feeling, or what phase of life she's dealing with. At first, we designed to the dialog with Kira work only with buttons. But, as soon as possible, this will be changed.
 
  # Application architecture
- <img src="./readmeImages/architecture.png" width=600/>
+ <img src="./readmeImages/architeture.png" width=600/>
 
  ## Technologies used
  Front-End
