@@ -1,4 +1,4 @@
-# Kira bot
+# Kira
  
  ⭐️ Note: If you are not a developer, or you just want to see the final result I recommend you to go to [section 5](#mobile-web-application).
 
